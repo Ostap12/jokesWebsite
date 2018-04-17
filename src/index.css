@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding-top: 50px;
+    font-family: sans-serif;
+    background-image: url("chuck.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
